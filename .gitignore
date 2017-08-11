@@ -1,0 +1,6 @@
+._*
+.~lock.*
+vendor/
+!.gitkeep
+composer.lock
+hosts.*
